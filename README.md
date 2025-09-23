@@ -12,6 +12,12 @@
     Sistema automatizado para geração e envio de extratos em PDF a partir de dados integrados.
     <br />
 
+<p align="center" style="font-size:10px;">
+  Automated system for generating and sending PDF statements from integrated data sources. 
+  (<a href="README_EN.md">click here for the English version</a>)
+  <br />
+</p>
+
   </p>
 </div>
 
@@ -108,11 +114,11 @@ Distribuído sob a licença do projeto. Veja `LICENSE` para mais informações.
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
 Eduardo Slomp Arán - duarans03@gmail.com
 
-Link do projeto: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Link do projeto: [https://github.com/ESAran/Report-Generator-via-Database](https://github.com/ESAran/Report-Generator-via-Database)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
