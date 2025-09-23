@@ -13,7 +13,7 @@
     <br />
 
 <p align="center" style="font-size:10px;">
-  Automated system for generating and sending PDF statements from integrated data sources. 
+  Automated system for generating and sending PDF statements from integrated data sources.<br>
   (<a href="README_EN.md">click here for the English version</a>)
   <br />
 </p>
